@@ -6,82 +6,80 @@
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Smarter Apps for Better Properties",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Tailored for Your Needs",
+            "Technology That Works for You",
+            "Community Engagement Made Easy",
+            "Support Local and Go Beyond"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Custom branding and white-labeling for your property",
+            "AI-powered tools to streamline management and enhance living",
+            "Community features to build stronger connections",
+            "Local deals and services to support nearby businesses"
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-paint-brush",
+            "name": "Tailored and White-Labeled for Your Property",
+            "text": "Make your property stand out with a fully white-labeled app. Living App lets you customize everything—from logos and colors to features—so it feels like an integral part of your property's brand. Provide a unique, professional experience for your residents while keeping your identity front and center."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-users",
+            "name": "Stay Connected With Neighbours",
+            "text": "Build a stronger community through photos, updates, and events shared in the community feed. Connect with neighbors using private chats and interest-based groups. Stay informed with real-time push notifications for important announcements from property managers, keeping you up-to-date on essential updates and changes."
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-calendar",
+            "name": "Digital Services Booking",
+            "text": "Plan ahead, manage your time, and access amenities with ease—right from your phone. With Living App, residents can reserve common spaces, gym classes, tools, or bikes directly from their phones. The app shows real-time availability and booking updates, allowing users to plan ahead with ease. Property managers can customize booking rules, monitor usage, and manage resources efficiently, ensuring everyone gets fair access to shared amenities."
         },
         {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-glass",
+            "name": "Plan Social Gatherings",
+            "text": "Host events like BBQs, game nights, or community meet-ups. Residents can RSVP, and property managers can easily keep everyone informed."
         },
         {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-comments",
+            "name": "Instant Help When You Need It",
+            "text": "Message property staff instantly for servicing issues or inquiries. Real-time chat ensures quick responses and seamless communication"
         },
         {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-tag",
+            "name": "Support Locals And Save More",
+            "text": "Enjoy discounts and deals from nearby restaurants, shops, and services. Save money while exploring what your community has to offer."
         }
-
-
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Living App has transformed how we manage our properties. The easy booking system and resident communication tools have saved us hours of admin work every week. Thank you again!.\"",
+            "name": "David P."
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Great App, makes it simple to stay connected with my neighbors and book amenities. The AI bot even helped me fix a minor maintenance issue myself! Good coding from a fellow developer.\"",
+            "name": "Johnathan C."
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Very smooth onboarding and integration of our own app, this has really elevated our brand and simplified our operations. Our residents feel like they're part of a high-tech, luxury community. Thanks and great work.\"",
+            "name": "Johan S."
         },
         {
             "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Living App has been a game-changer for our property. The digital services booking feature has made it incredibly easy for residents to reserve amenities, and the AI bot has been a huge help with maintenance requests. The app has really improved communication and made our operations more efficient.\"",
+            "name": "Malin P."
         },
         {
             "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"The onboarding process was so smooth, and the Living App's team has been there every step of the way. The custom branding makes it feel like the app was made just for us. It definitely added value to our Health Center Project!\"",
+            "name": "Özer E."
         },
         {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "img": "img/testimonials/06.jpg", 
+            "text": "\"As a resident, I love how Living App makes everything so convenient. The digital booking system is fantastic, and the community features have helped me meet some great neighbors. The local deals are an awesome bonus too!\"",
+            "name": "Lisa S."
         }
     ],
     "Team": [{
@@ -113,24 +111,49 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-paint-brush", 
+            "title": "Custom Branded App",
+            "text": "Fully customizable app with your property's branding, logos and features for a unique branded experience."
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-users",
+            "title": "Stay Connected With Neighbours", 
+            "text": "Connect with neighbors through shared photos, chats, groups and events. Get real-time updates on community announcements."
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-calendar",
+            "title": "Digital Services Booking",
+            "text": "Book common spaces, amenities and services directly from your phone. Real-time availability and updates make planning easy."
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-glass",
+            "title": "Plan Social Gatherings",
+            "text": "Host events like BBQs, game nights, or community meet-ups. Residents can RSVP, and property managers can easily keep everyone informed."
+        },
+        {
+            "icon": "fa fa-comments",
+            "title": "Instant Help When You Need It",
+            "text": "Message property staff instantly for servicing issues or inquiries. Real-time chat ensures quick responses and seamless communication"
+        },
+        {
+            "icon": "fa fa-tag",
+            "title": "Support Locals And Save More",
+            "text": "Enjoy discounts and deals from nearby restaurants, shops, and services. Save money while exploring what your community has to offer."
+        },
+        {
+            "icon": "fa fa-credit-card",
+            "title": "Payment Tracking", 
+            "text": "Track rental income, payment plans and receipts with ease. Stay on top of all financial transactions through our intuitive payment management system."
+        },
+        {
+            "icon": "fa fa-wrench",
+            "title": "AI-Powered Issue Reporting",
+            "text": "Report maintenance issues with photos and get AI-powered suggestions for DIY fixes. Track request status with real-time notifications."
+        },
+        {
+            "icon": "fa fa-android",
+            "title": "24/7 AI Assistant",
+            "text": "Get instant help anytime with our AI assistant for bookings, rules and condo questions."
         }
     ]
 }
